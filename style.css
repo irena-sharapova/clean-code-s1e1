@@ -10,10 +10,10 @@ body {
     display: block;
     text-align: right;
 }
-.header-main-page-element.img {
+.header-main-page-element img {
     width: 100%;
 }
-.header-main-page-element.more_inf {
+.header-main-page-element .more-inf {
     font-family: fantasy, cursive;
 }
 
@@ -128,7 +128,7 @@ li > label {
     width: 226px;
 }
 
-li >    input[type="text"] {
+li > input[type="text"] {
     width: 226px;
 }
 
@@ -153,11 +153,11 @@ ul li input[type=text] {
     display:none;
 }
 
-ul li.editMode input[type=text] {
+ul li.edit-mode input[type=text] {
     display:inline-block;
     width:224px;
 }
 
-ul li.editMode label {
+ul li.edit-mode label {
     display:none;
 }
