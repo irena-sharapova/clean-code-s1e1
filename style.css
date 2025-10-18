@@ -18,7 +18,8 @@ body {
 }
 
 @media (max-width:768px) {
-.header-main-page-element { text-align: center;
+.header-main-page-element {
+     text-align: center;
 }
 }
 
